@@ -5,5 +5,6 @@ export class Feature{
 
     public doAwesomeFeatureWork(){
         console.log("I'm winning!!");
+        console.log("I made a change");
     }
 }
